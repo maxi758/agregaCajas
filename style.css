@@ -1,0 +1,8 @@
+.divCreado{
+    border: 1px solid black;
+    display: inline-block;
+}
+img{
+    width: 90px;
+    height: 90px;
+}
